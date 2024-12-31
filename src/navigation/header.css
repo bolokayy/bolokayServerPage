@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+ 
+  .ant-layout-content {
+    padding: 16px;
+  }
+
+  .ant-layout-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .ant-menu-horizontal {
+    width: 100%;
+  }
+}
